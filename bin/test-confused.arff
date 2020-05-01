@@ -1,0 +1,9 @@
+@relation weather.symbolic
+
+@attribute outlook numeric
+@attribute temperature numeric
+
+@data
+
+8 , ?
+10 ,?
